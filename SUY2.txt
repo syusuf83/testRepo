@@ -1,2 +1,1 @@
-
-
+Added text to 2nd git file after file was empty
